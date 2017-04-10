@@ -6,7 +6,7 @@ function injectCSS () {
     .html("._1ht7 { color: rgba(255,255,255,0.4); } \
 ._1lj0 { color: #fff; } \
 ._3eus { color: #aaa; }\
-._3szq,._1ht6, ._17w2, ._2v6o, ._1htf, ._4rph ._4rpj, ._364g { color: #fff; }\
+._3szq,._1ht6, ._17w2, ._2v6o, ._1htf, ._4rph ._4rpj, ._364g, ._2jnv, ._2jnx, ._2jnz, ._2jnx ._30e7 ._5j5f { color: #fff; }\
 ._4sp8 { background-color: #151515; } \
 body { background: #fff; background-color: #151515; color: #fff; }").appendTo("head");
 }
